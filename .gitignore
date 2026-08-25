@@ -1,1 +1,46 @@
+# ==========================================
+# MATLAB / Simulink / Simscape
+# Quadcopter Modeling & Control
+# ==========================================
 
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB temporary files
+*.tmp
+
+# Simulink generated files
+*.slxc
+
+# Simulink cache and generated code
+slprj/
+sccprj/
+codegen/
+
+# Simulink simulation cache
+*.slxc
+
+# MATLAB project user-specific files
+*.prj.user
+
+# MEX compiled binaries
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*~
+*.bak
+*.swp
